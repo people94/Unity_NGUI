@@ -28,8 +28,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: 0_black
-    x: 485
-    y: 161
+    x: 257
+    y: 125
     width: 10
     height: 10
     borderLeft: 0
@@ -40,9 +40,22 @@ MonoBehaviour:
     paddingRight: 0
     paddingTop: 0
     paddingBottom: 0
+  - name: 1_bg2
+    x: 961
+    y: 561
+    width: 320
+    height: 463
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
   - name: 1_char_arm
-    x: 670
-    y: 121
+    x: 310
+    y: 141
     width: 26
     height: 30
     borderLeft: 0
@@ -54,8 +67,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: 1_char_body
-    x: 617
-    y: 116
+    x: 257
+    y: 136
     width: 52
     height: 35
     borderLeft: 0
@@ -67,8 +80,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: 1_char_face
-    x: 552
-    y: 101
+    x: 192
+    y: 121
     width: 64
     height: 50
     borderLeft: 0
@@ -80,8 +93,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: 1_char_foot
-    x: 967
-    y: 178
+    x: 337
+    y: 139
     width: 24
     height: 32
     borderLeft: 0
@@ -93,8 +106,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: 1_char_hat
-    x: 709
-    y: 146
+    x: 0
+    y: 94
     width: 124
     height: 77
     borderLeft: 0
@@ -106,8 +119,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: 1_char_jaroo
-    x: 834
-    y: 211
+    x: 125
+    y: 108
     width: 165
     height: 12
     borderLeft: 0
@@ -119,8 +132,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: 1_char_jarooTail
-    x: 485
-    y: 101
+    x: 125
+    y: 121
     width: 66
     height: 50
     borderLeft: 0
@@ -132,8 +145,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: 2_misile
-    x: 834
-    y: 187
+    x: 291
+    y: 112
     width: 71
     height: 23
     borderLeft: 0
@@ -158,8 +171,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: 3_pumpkin_hp
-    x: 906
-    y: 189
+    x: 352
+    y: 105
     width: 52
     height: 6
     borderLeft: 0
@@ -171,8 +184,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: 3_pumpkin_hp_bg
-    x: 906
-    y: 196
+    x: 291
+    y: 97
     width: 60
     height: 14
     borderLeft: 0
@@ -185,7 +198,7 @@ MonoBehaviour:
     paddingBottom: 0
   - name: 4_UI_GuageBar
     x: 0
-    y: 154
+    y: 76
     width: 412
     height: 17
     borderLeft: 0
@@ -223,8 +236,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: 5_Item_Star
-    x: 992
-    y: 185
+    x: 362
+    y: 146
     width: 28
     height: 25
     borderLeft: 0
